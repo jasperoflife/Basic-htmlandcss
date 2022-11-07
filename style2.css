@@ -1,0 +1,24 @@
+p.meta{
+    color: rgb(95, 10, 67);
+}
+
+.tech{
+    color: rgb(218, 32, 88);
+}
+
+.ayo{
+    border: 2px solid red;
+    background-color: aqua;
+    border-radius: 30px;
+    margin: 30px 20px;
+    padding: 30px 20px;
+}
+
+div{
+    color: rgb(11, 121, 44);
+}
+
+.meta{
+    color: blueviolet;
+    font-size: 30px;
+}

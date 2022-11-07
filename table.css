@@ -1,0 +1,33 @@
+body{
+    border: 2px solid blue;
+    padding-bottom: 50px;  
+}
+h1{
+    text-align: center;
+}
+
+div{
+    background-color: blueviolet;
+}
+table{
+    background-color: blueviolet;
+    flex-direction: row;
+}
+#content{
+    border: 2px solid red;
+    border-collapse: collapse;
+    width: 70%;
+    margin: auto;
+}
+
+#content th, #content td{
+    border: 1px solid #555;
+    padding: 10px; 
+}
+
+#content th{
+    padding-right: 50px;
+    font-size: 20px;
+    text-align: left;
+}
+
